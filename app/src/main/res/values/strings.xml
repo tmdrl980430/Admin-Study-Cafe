@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">StudyCafe</string>
+
+    <!-- Naming Rules -->
+    <!-- 도메인명_컴포넌트함축어_용도(=목적) -->
+
+    <!-- Common -->
+
+    <!-- Main -->
+    <string name="main_btm_nav_home_title">홈</string>
+    <string name="main_btm_nav_user_title">회원정보</string>
+    <string name="main_btm_nav_setting_title">설정</string>
+
+    <!-- Home -->
+
+
+    <!-- MyPage -->
+
+
+
+</resources>
