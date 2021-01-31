@@ -1,10 +1,16 @@
 <resources>
-    <string name="app_name">StudyCafe</string>
+    <string name="app_name">독전독서실</string>
 
     <!-- Naming Rules -->
     <!-- 도메인명_컴포넌트함축어_용도(=목적) -->
 
     <!-- Common -->
+
+    <!-- Login -->
+    <string name="login_title_top_info">독서실 회원관리 프로그램</string>
+    <string name="login_title_second_info">에 오신걸 환영합니다.</string>
+    <string name="login_sub_title_info">독전독서실은 "관리형" 독서실의 관리자를 위한 프로그램입니다. 추가적인 설명 이하 작성</string>
+
 
     <!-- Main -->
     <string name="main_btm_nav_home_title">홈</string>
@@ -15,7 +21,4 @@
 
 
     <!-- MyPage -->
-
-
-
 </resources>
