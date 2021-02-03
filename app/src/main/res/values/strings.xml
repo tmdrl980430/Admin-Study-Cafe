@@ -16,9 +16,21 @@
     <string name="main_btm_nav_home_title">홈</string>
     <string name="main_btm_nav_user_title">회원정보</string>
     <string name="main_btm_nav_setting_title">설정</string>
-
     <!-- Home -->
 
+    <!-- Info -->
+    <string name="main_info_btm_nav_number_title">번호</string>
+    <string name="main_info_btm_nav_name_title">이름</string>
+    <string name="main_info_btm_nav_gender_title">성별</string>
+    <string name="main_info_btm_nav_school_title">학교/학년</string>
+    <string name="main_info_btm_nav_parent_number_title">부모님 전화번호</string>
+    <string name="main_info_btm_nav_student_number_title">본인 전화번호</string>
+    <string name="main_info_btm_nav_search_name_title">이름을 검색하세요</string>
+    <string name="main_info_btm_nav_name_ganada_title">이름 가나다순</string>
+    <string name="main_info_btm_nav_level_title">학년</string>
+    <string name="main_info_btm_nav_school_name_title">학교</string>
+    <string name="main_info_btm_nav_user_add_title">회원추가</string>
+    <string name="main_info_btm_nav_user_setting_title">회원 관리</string>
 
     <!-- MyPage -->
 </resources>

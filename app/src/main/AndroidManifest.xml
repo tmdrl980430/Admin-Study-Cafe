@@ -2,8 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.studycafe">
 
-    <uses-permission android:name="android.permission.INTERNET" />
-
     <application
         android:name=".config.ApplicationClass"
         android:hardwareAccelerated="false"
@@ -23,18 +21,6 @@
         </activity>
         <activity android:name=".src.main.MainActivity"
             android:screenOrientation="landscape"/>
-
-        <activity android:name="com.kakao.sdk.auth.AuthCodeHandlerActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.VIEW" />
-                <category android:name="android.intent.category.DEFAULT" />
-                <category android:name="android.intent.category.BROWSABLE" />
-
-                <!-- Redirect URI: "kakao{NATIVE_APP_KEY}://oauth“ -->
-                <data android:host="oauth"
-                    android:scheme="kakao67f652408689ca26535e679a1aabff27" />
-            </intent-filter>
-        </activity>
     </application>
 
 </manifest>

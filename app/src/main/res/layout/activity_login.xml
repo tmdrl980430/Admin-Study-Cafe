@@ -56,7 +56,6 @@
     </LinearLayout>
 
     <ImageView
-        android:id="@+id/login_activity_btn"
         android:layout_width="0dp"
         android:layout_height="0dp"
         app:layout_constraintWidth_percent="0.7"
